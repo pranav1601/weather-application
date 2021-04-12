@@ -1,8 +1,8 @@
 # Weather-Application
 
 A nodejs backend run application that can be used to view weather data of a location via command line.
--> The application uses [Mapbox](www.mapbox.com) for fetching the latitude and longitude of a location from the name of the location.
--> The application uses [WeatherStack](www.weatherstack.com) for fetching the weather data of a location from the latitude and longitude of the location.
+* The application uses [Mapbox](www.mapbox.com) for fetching the latitude and longitude of a location from the name of the location.
+* The application uses [WeatherStack](www.weatherstack.com) for fetching the weather data of a location from the latitude and longitude of the location.
 
 The project uses npm version 7.6.0 and Node.js v12.20.2.
 
